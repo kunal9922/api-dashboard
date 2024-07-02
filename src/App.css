@@ -27,6 +27,14 @@
 .App-link {
   color: #61dafb;
 }
+.criteria-selector {
+  margin: 20px 0;
+}
+
+#criteria {
+  padding: 5px;
+  font-size: 16px;
+}
 
 @keyframes App-logo-spin {
   from {
